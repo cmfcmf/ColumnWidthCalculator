@@ -1,0 +1,20 @@
+{
+    "name": "cmfcmf/column-width-calculator",
+    "type": "library",
+    "description": "Calculate "perfect" table column widths in PHP.",
+    "keywords": ["column", "table", "calculate", "width", "auto-width"],
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Christian Flach"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Cmfcmf": "src/"
+        }
+    }
+}
